@@ -103,27 +103,6 @@ git clone https://github.com/mparrondo/project_mparrondo.git
     - The system will display a main menu with numbered options
     - Follow the on-screen instructions to manage tasks and habits
 
-### Evaluation Criteria
-
-The project is evaluated based on:
-
-- **Functionality**: Complete ability to add, remove, mark as completed, and generate reports
-- **Code Organization**: Clear structure with meaningful variable names and appropriate use of functions
-- **User Experience**: Ease of use with clear instructions, error handling, and appropriate feedback
-- **Completeness**: Implementation of all described features without errors
-- **Creativity**: User experience-oriented development with additional functionalities
-
-
-### Version History
-
-The project maintains version control with the following main commits:
-
-- **Final submission version**: Complete final version of the project
-- **Tasks 4, 5 and 6 completed**: Implementation of deletion, reports, and main menu
-- **Create Project_mparrondo.ipynb**: Initial notebook creation
-- **Initial commit**: Initial repository setup
-
-
 ### Contribution
 
 This is an individual academic project developed by mparrondo as part of the ACENET program. The repository is configured as public for evaluation and demonstration purposes.
